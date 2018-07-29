@@ -1,2 +1,2 @@
 # hello-world
-This is Ppart of the Git tutorial
+This is Part of the Git tutorial
